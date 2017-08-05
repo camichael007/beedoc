@@ -18,7 +18,7 @@ import (
 )
 
 var (
-	NotPV []string = []string{"css", "js", "class", "gif", "jpg", "jpeg", "png", "bmp", "ico", "rss", "xml", "swf"}
+	NotPV []string = []string{".css", ".js", ".class", ".gif", ".jpg", ".jpeg", ".png", ".bmp", ".ico", ".rss", ".xml", ".swf"}
 )
 
 const big = 0xFFFFFF
